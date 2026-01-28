@@ -8,6 +8,16 @@
 
 <img src="pic/ucas_logo_name.png" style="zoom:70%;" />
 
+<p align="center">Author:Munger·yang-杨桂淼&copy;</p>
+
+<p align="center">School:中国科学院大学/中国科学院 信息工程研究所 UCS_IIE</p>
+
+<p align="center">E-mail: mungerygm@gmail.com</p>
+
+<p align="center">下定决心 排除万难</p>
+
+<p align="center">立足专业 持之以恒</p>
+
 <center>Author:Munger·yang-杨桂淼&copy;</center>
 
 <center>School:中国科学院大学/中国科学院 信息工程研究所 UCS_IIE</center>
