@@ -15,9 +15,7 @@
 
 <p align="center">立足专业 持之以恒</p>
 
-<img align="center" src="https://www.itdjs.com/wp-content/uploads/2022/11/2022110700364031-e1702519775449.png" style="zoom:70%;" />
-
-![Bigdata](https://www.itdjs.com/wp-content/uploads/2022/11/2022110700364031-e1702519775449.png)
+<img align="center" src="https://www.itdjs.com/wp-content/uploads/2022/11/2022110700364031-e1702519775449.png"/>
 
 ## 📔 NoteBook
 
