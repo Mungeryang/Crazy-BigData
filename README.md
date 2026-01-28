@@ -1,19 +1,24 @@
 <center>
   <h1>🔥🔥Crazy-BigData🔥🔥</h1>
+</center>
+
+<center>
   <h1>——黑马·狂野大数据体系课程学习笔记</h1>
 </center>
 
 <img src="pic/ucas_logo_name.png" style="zoom:70%;" />
 
-<center>Author:Munger·yang-杨桂淼&copy;
-<center>School:中国科学院大学/中国科学院 信息工程研究所 UCS_IIE
-<center>E-mail: mungerygm@gmail.com
-<center>下定决心 排除万难
-<center>立足专业 持之以恒
+<center>Author:Munger·yang-杨桂淼&copy;</center>
+
+<center>School:中国科学院大学/中国科学院 信息工程研究所 UCS_IIE</center>
+
+<center>E-mail: mungerygm@gmail.com</center>
+
+<center>下定决心 排除万难</center>
+
+<center>立足专业 持之以恒</center>
 
 ![Bigdata](https://www.itdjs.com/wp-content/uploads/2022/11/2022110700364031-e1702519775449.png)
-
-
 
 ## 📔 NoteBook
 
