@@ -2,9 +2,6 @@
 
 <h1 align="center">——黑马·狂野大数据体系课程学习笔记</h1>
 
-<center>
-  <h1>——黑马·狂野大数据体系课程学习笔记</h1>
-</center>
 
 <img src="pic/ucas_logo_name.png" style="zoom:70%;" />
 
