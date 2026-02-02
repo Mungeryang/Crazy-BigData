@@ -25,7 +25,10 @@
 | ------------------------- | ---- |
 | Chapter 1: 大数据发展概述 | ✅    |
 | Chapter 2:JDBC与MySQL     | ✅    |
-| Chapter 3: Linux集群部署  | 🙅    |
+| Chapter 3: Linux集群部署  | ✅    |
+| Chapter 4: Hadoop与Yarn   | ✅    |
+| Chapter 5: MapReduce      | ✅    |
+| Chapter 6: Hive           | 🙅    |
 
 
 
