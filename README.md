@@ -29,6 +29,15 @@
 | Chapter 4: Hadoop与Yarn   | ✅    |
 | Chapter 5: MapReduce      | ✅    |
 | Chapter 6: Hive           | ✅    |
+| Chapter 7: Spark           | 待更新   |
+| Chapter 8: Flink           | 待更新   |
+
+## Project
+
+### 知行教育大数据项目
+
+
+
 
 
 
